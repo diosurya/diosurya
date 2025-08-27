@@ -8,7 +8,12 @@
 ![https://www.instagram.com/dio.suryaputra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/diosuryaputra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## My Github Stats
-![Dio Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=diosurya&show_icons=true&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=diosurya&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diosurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 💰 Buy me coffee
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/dioputra95) 
 
 
 <!--
