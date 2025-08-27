@@ -11,8 +11,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=diosurya&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diosurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## ☕ Turn Code into Coffe
+## ☕ Turn Coffee Into Code
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/dioputra95) 
 
 ## Enjoy
