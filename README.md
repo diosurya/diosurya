@@ -12,10 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diosurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## Enjoy
+## ☕ Turn Code into Coffe
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/dioputra95) 
 
-## Turn Code into Coffe
+## Enjoy
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diosurya/diosurya/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diosurya/diosurya/output/pacman-contribution-graph.svg">
